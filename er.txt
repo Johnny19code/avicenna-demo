@@ -1,0 +1,80 @@
+<div class="row class-active">                     
+                          <div class="col-lg-4 col-md-6 ">
+                            <div class="courses-item mb-30 hover-zoomin">
+                                <div class="thumb fix">
+                                    <img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01">
+                                </div>
+                                <div class="courses-content">
+                                    <h3> Nursing</h3>
+                                     <p>Learn about our Nursing program English or Russian Medium.</p>
+                                </div>
+                                <div class="icon">
+                                 <img src="img/icon/cou-icon.png" alt="img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row class-active">                     
+                        <div class="col-lg-4 col-md-6 ">
+                          <div class="courses-item mb-30 hover-zoomin">
+                              <div class="thumb fix">
+                                  <img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01">
+                              </div>
+                              <div class="courses-content">
+                                  <h3> MBBS/MD</h3>
+                                   <p>5 Year Course / 6 Year Course English or Russian Medium</p>
+                              </div>
+                              <div class="icon">
+                               <img src="img/icon/cou-icon.png" alt="img">
+                              </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="row class-active">                     
+                        <div class="col-lg-4 col-md-6 ">
+                            <div class="courses-item mb-30 hover-zoomin">
+                                <div class="thumb fix">
+                                    <img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01">
+                                </div>
+                                <div class="courses-content">
+                                    <h3>BDS</h3>
+                                    <p>5 Year Course English or Russian Medium</p>
+                                </div>
+                                <div class="icon">
+                                <img src="img/icon/cou-icon.png" alt="img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row class-active">                     
+                        <div class="col-lg-4 col-md-6 ">
+                            <div class="courses-item mb-30 hover-zoomin">
+                                <div class="thumb fix">
+                                    <img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01">
+                                </div>
+                                <div class="courses-content">
+                                    <h3>PG</h3>
+                                    <p>3 Year English or Russian Medium</p>
+                                </div>
+                                <div class="icon">
+                                <img src="img/icon/cou-icon.png" alt="img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row class-active">                     
+                        <div class="col-lg-4 col-md-6 ">
+                            <div class="courses-item mb-30 hover-zoomin">
+                                <div class="thumb fix">
+                                    <img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01">
+                                </div>
+                                <div class="courses-content">
+                                    <h3>PHD</h3>
+                                    <p>3 Year English or Russian Medium</p>
+                                </div>
+                                <div class="icon">
+                                <img src="img/icon/cou-icon.png" alt="img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
