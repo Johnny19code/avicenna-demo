@@ -38,7 +38,7 @@
                                     <li class="has-sub">
                                         <a href="#">Others</a>
                                         <ul>
-                                            <li><a href="#">Licenses & Certifications</a></li>
+                                            <li><a href="licenses-certifications.php">Licenses & Certifications</a></li>
                                             <li><a href="#">Alumni</a></li>
                                             <li><a href="#">Administration</a></li>
                                         </ul>
